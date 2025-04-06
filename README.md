@@ -3,7 +3,7 @@
 ## Created by ViperFSFA
 ### Ethical Use Only!
 
-This project is intended for ethical use only. Any unethical use of this software is illegal and strictly prohibited. This tool is designed for educational and testing purposes. Use it responsibly!
+This project is intended for ethical use only. unethical use of this software is illegal and strictly prohibited. This tool is designed for educational and testing purposes. Use it responsibly!
 
 ## Description
 This is an ESP32-based Wi-Fi testing toolbar that allows you to interact with nearby Wi-Fi networks through a web-based interface. The tool creates an access point that can be accessed via a web browser and provides multiple features, including:
